@@ -1,0 +1,1 @@
+github is a web-based platform for software development and vesrion control that's built around Git,a powerfull distributed version control system.
