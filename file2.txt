@@ -1,0 +1,3 @@
+Version Control: Built on Git, it allows tracking, branching, and merging of code changes.
+Collaboration: Features include repositories (projects), pull requests for code review, issues, and wikis.
+Access: Repositories can be public (open-source) or private.
