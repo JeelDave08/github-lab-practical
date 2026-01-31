@@ -1,0 +1,4 @@
+Set up Git on your computer
+Understand GitHub Copilot and AI tools
+Host a free website using GitHub Pages
+Configure GitHub Actions for automation 
